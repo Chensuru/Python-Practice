@@ -1,3 +1,4 @@
+#值因數分解
 #Get the prime number which lower than the number you input
 def get_prime(number):
     num_list = []
